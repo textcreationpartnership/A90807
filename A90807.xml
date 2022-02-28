@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both Houses of Parliament. Being the case of John Pollard of Steeple in Esex [sic] truly stated, and the cruelty and injustice of his oppressors fully declared and laid before you, to do justice therein, and execute true judgement, and relieve the oppressed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90807</idno>
+            <idno type="STC">Wing P2774</idno>
+            <idno type="STC">ESTC R181918</idno>
+            <idno type="EEBO-CITATION">45578406</idno>
+            <idno type="OCLC">ocm 45578406</idno>
+            <idno type="VID">172328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both Houses of Parliament. Being the case of John Pollard of Steeple in Esex [sic] truly stated, and the cruelty and injustice of his oppressors fully declared and laid before you, to do justice therein, and execute true judgement, and relieve the oppressed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Pollard. 29. of the 4th. month, 1661.</note>
+                  <note>Imperfect: stained along fold.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pollard, John, --  of Steeple in Essex.</term>
+               <term>Tithes.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:172328:1" rendition="simple:additions"/>
+            <head>For the King and both Houſes of Parliament. BEING The Caſe of <hi>John Pollard</hi> of <hi>Steeple</hi> in <hi>ESEX</hi> truly ſtated, and the cruelty and injuſtice of his Oppreſſors fully declared and laid before you, to do juſtice therein, and execute true judgement, and relieve the oppreſſed.</head>
+            <p>IN the year 1657. <hi>I John Pollard</hi> was ſummoned to appear be<g ref="char:EOLhyphen"/>fore the Barons of the Exchequer by <hi>Henry Robinſon</hi> Prieſt of <hi>Mayland,</hi> in the Countie of <hi>Eſſex,</hi> whereunto <hi>I</hi> procured my appearance to be entred, and becauſe my Anſwer to the ſaid Prieſts Bill could not be accepted without an Oath, I was after<g ref="char:EOLhyphen"/>wards arreſted upon an Attachment of Contempt for not anſwer<g ref="char:EOLhyphen"/>ing, and thereupon was committed to the County Goal, and there continued a Priſoner fourteen Moneths and upwards, that is to ſay till <hi>Michaelmas</hi> Term, in which Term <hi>I</hi> was removed from thence by a <hi>Habeas Corpus</hi> iſſuing out of the Upper Bench Court, and was thereupon committed to the priſon of the <hi>Marſhalſea</hi> by the pro<g ref="char:EOLhyphen"/>curement of one <hi>Benjamin Maddox</hi> an Impropriator of Tithes of part of the Pariſh called <hi>Steeple,</hi> where my outward being is; and on the firſt of <hi>February</hi> following, a Declaration was left with the Door-keeper of the ſaid priſon, for me to give my anſwer to, where<g ref="char:EOLhyphen"/>in the ſaid <hi>Maddox</hi> demanded threeſcore pounds of debt for the creble value of Tithes for one year, the Rent being but about fifty pounds a year, at two ſhillings in the pound, which is five pounds in all; Whereupon before the end of the ſaid Term <hi>I</hi> repaired to <hi>Thomas Jekills</hi> chamber, Attorney for the ſaid <hi>Maddox,</hi> and he be<g ref="char:EOLhyphen"/>ing not there, <hi>I</hi> left my anſwer in writing with his Clerk, which he received, and told me it would be as well, as if <hi>I</hi> had given it his Maſter; Yet notwithſtanding the ſaid Attorney ſoon after ſued out an Execution to the Sheriff at the ſuit of the ſaid <hi>Maddox,</hi> whereby the Sheriff hath taken from me twenty two dairy Cowes, worth one hundred and four pounds, for five pound Tithes; And the Chief Juſtice <hi>Glin</hi> being informed of the ſaid <hi>Jekills</hi> proceedings towards me, He ſaid, <hi>Strange, this cannot be:</hi> Then the ſaid <hi>Glin</hi> asked <hi>Thomas Iekill</hi> who had confeſſed what he had done, then <hi>Glin</hi> asked <hi>Jekill</hi> whether <hi>I</hi> had given him a Plea in my own perſon; <hi>Je<g ref="char:EOLhyphen"/>kill</hi> anſwered, <hi>that I did;</hi> Then ſaid <hi>Glin, You ſhould not have taken his Cows; for if he would not have an Attorney, you ſhould have taken his own plea:</hi> and then <hi>Glin</hi> ordered that my own plea ſhould be taken, and that the Judgement ſhould bevacated, &amp; that the ſuit ſhould go to Trial the next Aſſizes, and that <hi>I</hi> ſhould have my Cows again all that were unſold, and thoſe that were ſold the money ſhould re<g ref="char:EOLhyphen"/>main in the Sheriffs hands till further Order: in ſtead of which Order the Clerk drew up one which was oppoſite to it; ſo <hi>I</hi> went to <hi>Weſtminſter Hall</hi> the next morning again, and there was <hi>Jekill</hi> and one of the Judges whiſpering together; a little after came in ano<g ref="char:EOLhyphen"/>ther Judge, and then that other Judge with <hi>Jekill</hi> and the other Judge whiſpering together till <hi>Glin</hi> came, then <hi>Glin</hi> and the other two Judges whiſpered together a ſeaſon, and when they had done I ſpake to <hi>Glin</hi> to this effect, <hi>Thou madeſt a very good Order yeſterday, but they have abuſed thy Order, and have drawn up a contrary thing in ſtead of it:</hi> Then ſaid <hi>Glin</hi> to me, <hi>Your plea cannot be taken in perſon, nor the Iudgement cannot be vacated, nor it cannot go to Tryal at the Aſſi<g ref="char:EOLhyphen"/>zes;</hi> Thus <hi>John Glin</hi> made one Order one morning, and the next morning made it void again: and ſo becauſe <hi>I</hi> could not fee an At<g ref="char:EOLhyphen"/>torney (the uſe of whom was firſt appointed for them that were ſick, or beyond Seas and could not appear in their own perſons ac<g ref="char:EOLhyphen"/>cording to the ſummons) therefore have <hi>I</hi> loſt the value of 104. pounds for five pounds Tithes.</p>
+            <p>Not long after one <hi>Matthias Armiger</hi> a Farmer of part of the Tithes of <hi>Steeple Grainge</hi> aforeſaid, ſeeing the ſaid <hi>Maddox</hi> have ſuch ſucceſſe in making a prey on my eſtate, was encouraged to get what he could of me alſo, and while <hi>I</hi> was a Priſoner in the Upper Bench, where <hi>I</hi> remained five moneths and one week, the ſaid <hi>Armiger</hi> ſent a Declaration againſt me for two hundred eighty and five pounds, for two years Tithes of a Farm, being but a little above two hundred pounds a year Rent in the whole, though for<g ref="char:EOLhyphen"/>merly Tithes were paid but for three parts of the ſaid Farm in <hi>Stee<g ref="char:EOLhyphen"/>ple</hi> to him, the Tithes of 3 parts of which amounts to about thirty pounds for two years Tithes, for which the ſaid <hi>Armiger</hi> cauſed to be taken from me thirty five Cows and bullocks worth one hun<g ref="char:EOLhyphen"/>dred twenty three pounds and ten ſhillings, which is ſeventeen pounds and ten ſhillings more then the Award made at the Aſſizes by the Jury: and the ſaid <hi>Armiger</hi> ſued for the Tithes of the whole Farm. And one <hi>Charles Nuttall</hi> Attorney to the ſaid <hi>Armiger</hi> and two more men ſwore that the ſaid <hi>Amiger</hi> had right to the Tithes of the whole Farm, upon which <hi>I</hi> was caſt for the whole Farm an hundred pounds.</p>
+            <p>And the next morning, my cauſe being again called at the ſame Aſſizes before another Judge, the ſame witneſſes came againſt me, and <hi>I</hi> charged the witneſſes before the Judge of falſe ſwearing, and did deſire that the under Sheriff might be called, and did produce my Declaration which ſhewed why my Cows were taken away by <hi>Maddox,</hi> and the Judge took it and read it, and did confeſſe that it was clear, that it was for one part of the Tithes of the whole Farm that <hi>Maddox</hi> ſued for, and upon the ſame reaſon <hi>Armiger</hi> ought to ſue but for three parts. Then the witneſſes and one man did whiſ<g ref="char:EOLhyphen"/>per together, then the Judge asked them whether they did ſue for the whole or for three parts, and then they anſwered but for three parts, and the Jury brought in their virdict for three parts, one hundred and ſix pounds, although the other Judge and Jury gave him but one hundred pounds for the whole. And thus it may be noted, that <hi>Armigers</hi> witneſſes that ſwore one day before one Judge that <hi>Armiger</hi> had right to the Tithes of the whole Farm, the next day before another Judge, being on their oaths, denied what they had ſworn to, and ſaid he had right but to three parts. And I declaring againſt <hi>Armigers</hi> Attorney for his falſe ſwearing, the Judge ſaid <hi>I was upon the catch.</hi>
+            </p>
+            <p>Alſo in the year 1660. the ſaid <hi>Armiger</hi> brought another action againſt me (being a Priſoner in the <hi>Fleet)</hi> and he demanded one hundred ninety and two pounds for one years Tithes of the whole Farm, the Tithes of three parts of which Farm for one year comes to about fifteen pounds, for which he cauſed to be ta<g ref="char:EOLhyphen"/>ken twenty five Cows and Bullocks worth about fourſcore and five pounds.</p>
+            <p>So that for fifty pounds Tithes which was for leſſe then three years, they have taken Cows, Bullocks and one Bull, to the number of four ſcore and two in all, all which are valued to be worth three hurdred twenty two pounds, and returned nothing again, and the ſaid <hi>Armiger</hi> keeps me and my Brother priſoners in the <hi>Fleet</hi> beſides.</p>
+            <p>
+               <hi>Theſe things are laid before you who are impowred to do Iuſtice and e<g ref="char:EOLhyphen"/>quity, ſeriouſly to weigh and conſider, that you may ſhew mercy to the oppreſsed, and remove this unreaſonable oppreſſion which cryes in the Land, that theſe heavy burdens &amp; this ſad bondage may not alwayes lye upon the back of the Innocent.</hi>
+            </p>
+            <closer>
+               <signed>John Pollard.</signed>
+               <dateline>
+                  <date>29. of the 4 th. Month, 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
